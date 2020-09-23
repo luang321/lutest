@@ -1,4 +1,4 @@
 - name: 主页
-  link: /lutest/
+  link: /
 - name: 查看博客
-  link: /lutest/pages/blogs.html
+  link: /pages/blogs.html
